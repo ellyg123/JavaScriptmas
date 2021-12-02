@@ -1,5 +1,6 @@
 # JavaScriptmas
 
-This is Day 1 of the JavaScriptmas challenge for Scrimba.
+These are my entries for each day of the JavaScriptmas challenge for Scrimba.
 
-The objective is to create a count down to Christmas that updates itself automatically.
+Day 1 - create a count down to Christmas that updates itself automatically.
+Day 2 - create a toggle button between "Christmas" mode and "Snow" mode
