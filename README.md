@@ -12,7 +12,7 @@ Day 4 - create a Christmas-themed to-do list page
 
 Day 5 - randomly generate a Christmas message on a card
 
-Day 6 - create a button with functionality to "Christmassify" the pagee
+Day 6 - create a button with functionality to "Christmassify" the page
 
 Day 7 - add functionality to play, pause, and stop audio buttons
 
